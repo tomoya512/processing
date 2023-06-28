@@ -113,3 +113,4 @@ for epoch in range(max_epochs):
             loss = criterion(output, y)
             valdation_loss.append(float(loss))
 
+print(1)
